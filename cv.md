@@ -21,10 +21,10 @@
 3. I Responsibly carry out the tasks
 4. Personal qualities:
 
-- attentiveness,
-- responsibility,
-- self-learning,
-- communication skills
+   - attentiveness,
+   - responsibility,
+   - self-learning,
+   - communication skills
 
 ## Skills
 
