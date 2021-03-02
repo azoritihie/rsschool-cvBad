@@ -1,6 +1,6 @@
 # Ulyana Zorina
 
-![foto](https://user-images.githubusercontent.com/77878911/109412019-30d65780-79bf-11eb-9964-2a9d7dd7ede9.jpg)
+<img src="https://user-images.githubusercontent.com/77878911/109412019-30d65780-79bf-11eb-9964-2a9d7dd7ede9.jpg" alt="drawing" width="200"/>
 
 ## Personal information
 
